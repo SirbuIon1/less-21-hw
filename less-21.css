@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+ }
+ #container, #delegation{
+    text-align: center;
+ }
+ #button-1 {
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    height: 10vh;
+    width: 10%;
+ }
+ #button-2{
+    color:white;
+    background-color: green;
+    border-radius: 5px;
+    height: 10vh;
+    width: 10%;
+ }
+ #button-3 {
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    height: 10vh;
+    width: 10%;
+ }
+ 
+ #p{
+    font-style: italic;
+    font-size: 1.5em;
+ }
+ h1{
+    font-style: italic;
+ }
